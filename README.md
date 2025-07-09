@@ -39,9 +39,13 @@ This is a console-based **Hospital Management System** built using Python and SQ
 ## 📂 Folder Structure
 
 ├── database.py # Creates all required tables
+
 ├── main.py # Entry point of the application
+
 ├── user.py # User class with login/register logic
+
 ├── patient.py # Patient-related OOP logic
+
 ├── medicine.py # Medicine class
 
 ├── stock.py # Medicine stock management
