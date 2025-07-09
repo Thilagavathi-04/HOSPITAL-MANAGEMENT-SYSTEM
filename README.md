@@ -42,7 +42,7 @@ This is a console-based **Hospital Management System** built using Python and SQ
 
 ├── main.py # Entry point of the application
 
-├── user.py # User class with login/register logic
+├── user.py # User class with registrattion
 
 ├── patient.py # Patient-related OOP logic
 
